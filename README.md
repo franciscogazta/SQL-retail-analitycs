@@ -21,9 +21,9 @@ To explore and analyze a retail database by:
 - Derivation of actionable insights for business scenarios.
 
 ## Repository Structure
-/sql
-queries.sql
-README.md
+- /sql
+- queries.sql
+- README.md
 
 ## Next Steps
 - Add CTE-based queries for readability.
